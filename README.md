@@ -1,1 +1,11 @@
-11th grader in Florida interested in chemistry and coding!
+**I primarily work with:**
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
+
+**I am learning:**
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</div>
